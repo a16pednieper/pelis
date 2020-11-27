@@ -1,2 +1,2 @@
 # Ignorar el Sites de Mkdocs
-site/
+*site/
