@@ -2,4 +2,7 @@ site_name: Peliculas Pedro Nieto
 nav:
     - Home: index.md
     - About: about.md
+    - Batman: batman.md
+    - Castillo: castillo.md
+    - Gambit: gambit.md
 theme: readthedocs
